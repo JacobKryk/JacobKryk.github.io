@@ -61,3 +61,7 @@ a:active {
 .offWhite {
     background-color: rgb(205, 209, 186);
 }
+
+.text-justify{
+    text-align: justify;
+}
