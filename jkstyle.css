@@ -1,14 +1,13 @@
 body {
     background-color: rgb(3, 39, 50);
     font-family: 'Domine';
+    padding-top: 60px;
 }
 body>.container {
     position:relative;
     color: white;
     animation-name: pageTrans;
     animation-duration: 1s;
-    margin: 10%, 10%, 10%, 10%;
-
 }
 @keyframes pageTrans {
     0%      {opacity: 0%; left: 15px;}
